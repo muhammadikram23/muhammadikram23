@@ -9,9 +9,10 @@
 My journey started with the fundamentals of the web — HTML, CSS, and JavaScript — and has
 since grown into full-stack development through React, TypeScript, and Firebase, alongside
 hands-on training in Frontend, Backend, and Database development at Saylani Mass IT Training
-(SMIT), Quetta. Alongside my coursework in Algorithms, Computer Architecture, and Cloud
-Computing, I've also been exploring Agentic AI, learning how modern AI systems reason, use
-tools, and integrate into real applications.
+(SMIT), Quetta. Alongside my coursework in Analysis of Algorithm, Object Oriented Programming,
+Data Structure, Computer Architecture, and Cloud Computing, I've also been exploring 
+Agentic AI, learning how modern AI systems reason, use tools, and integrate into real
+applications.
 
 What drives me isn't just learning to code — it's learning to build with purpose. My most
 meaningful project so far, LifeFlow, is an emergency blood donation platform that connects
