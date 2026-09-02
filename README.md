@@ -7,7 +7,7 @@
 
 ---
 
-## A Bit About Me
+## 🚀 A Bit About Me
 My journey started with the fundamentals of the web — HTML, CSS, and JavaScript — and has since grown into full-stack development through React, TypeScript, and Firebase, alongside hands-on training at SMIT, Quetta. Alongside my coursework in Algorithms, OOP, Data Structures, Computer Architecture, and Cloud Computing, I'm also exploring Agentic AI — learning how modern AI systems reason, use tools, and integrate into real applications.
 
 What drives me isn't just learning to code — it's learning to build with purpose. My most meaningful project, LifeFlow, is an emergency blood donation platform connecting donors and recipients through real-time matching, proximity-based notifications, and secure Google OAuth authentication. What makes it truly special is the AI-powered eligibility advisor — a feature I built after completing ACT AI a National AI course, where I learned to integrate intelligent decision-making into real-world applications. This course gave me the foundation to not just build apps, but to infuse them with AI that genuinely helps users.
