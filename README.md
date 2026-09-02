@@ -76,11 +76,18 @@ Feel free to explore my projects, follow my progress, or reach out — I'm alway
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadikram23&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadikram23&layout=compact&theme=radical" alt="Top Languages" width="48%">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=muhammadikram23&show_icons=true&theme=radical&hide_border=true" 
+    alt="Muhammad Ikram's GitHub Stats" 
+    width="48%" 
+  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadikram23&layout=compact&theme=radical&hide_border=true" 
+    alt="Most Used Languages" 
+    width="48%" 
+  />
 </p>
-
-> 💡 If the stats don't load, try refreshing the page or opening the images directly in a new tab — they are hosted on Vercel and may take a moment.
 
 ---
 
