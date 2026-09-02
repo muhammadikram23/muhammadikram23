@@ -75,9 +75,10 @@ Feel free to explore my projects, follow my progress, or reach out — I'm alway
 
 ## 📊 GitHub Stats
 
-![Muhammad Ikram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadikram23&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadikram23&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadikram23&show_icons=true&theme=radical&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadikram23&layout=compact&theme=radical" width="48%" />
+</p>
 
 ---
 
