@@ -7,20 +7,20 @@
 
 ---
 
-## 🚀 A Bit About Me
+## A Bit About Me
+My journey started with the fundamentals of the web — HTML, CSS, and JavaScript — and has since grown into full-stack development through React, TypeScript, and Firebase, alongside hands-on training at SMIT, Quetta. Alongside my coursework in Algorithms, OOP, Data Structures, Computer Architecture, and Cloud Computing, I'm also exploring Agentic AI — learning how modern AI systems reason, use tools, and integrate into real applications.
 
-My journey started with the fundamentals of the web — HTML, CSS, and JavaScript — and has since grown into full-stack development through React, TypeScript, and Firebase, alongside hands-on training at SMIT, Quetta. Alongside my coursework in Algorithms, OOP, Data Structures, Computer Architecture, and Cloud Computing, I'm also exploring **Agentic AI** — learning how modern AI systems reason, use tools, and integrate into real applications.
+What drives me isn't just learning to code — it's learning to build with purpose. My most meaningful project, LifeFlow, is an emergency blood donation platform connecting donors and recipients through real-time matching, proximity-based notifications, and secure Google OAuth authentication. What makes it truly special is the AI-powered eligibility advisor — a feature I built after completing ACT AI a National AI course, where I learned to integrate intelligent decision-making into real-world applications. This course gave me the foundation to not just build apps, but to infuse them with AI that genuinely helps users.
 
-What drives me isn't just learning to code — it's learning to **build with purpose**. My most meaningful project, **LifeFlow**, is an emergency blood donation platform connecting donors and recipients through real-time matching and AI-powered eligibility. Building it taught me what it takes to take an idea from concept to deployed application — debugging real auth issues, designing for real users, and iterating until it works.
+Building LifeFlow taught me what it takes to take an idea from concept to deployed application — debugging real auth issues, designing for real users, and iterating until it works. The experience of applying AI in a practical, life-saving context has been one of the most rewarding parts of my learning journey.
 
-I recently proved my ability to deliver under pressure by winning the **🏆 Best Project Award** at Quetta's first-ever Coding Night with my **Citizen Complaint Portal** — a full MERN stack civic-tech platform built entirely solo in just 12 hours. This experience reinforced my belief in clean architecture, rapid prototyping, and writing code that actually solves real problems.
+I recently proved my ability to deliver under pressure by winning the 🏆 Best Project Award at Quetta's first-ever Coding Night with my Citizen Complaint Portal — a full MERN stack civic-tech platform built entirely solo in just 12 hours. This experience reinforced my belief in clean architecture, rapid prototyping, and writing code that actually solves real problems.
 
-I care about writing **clean, maintainable code**, not just code that runs. Every project is an opportunity to grow — more thoughtful about architecture, more comfortable with tools, and closer to the developer I want to become.
+I care about writing clean, maintainable code, not just code that runs. Every project is an opportunity to grow — more thoughtful about architecture, more comfortable with tools, and closer to the developer I want to become.
 
 Looking ahead, I'm focused on deepening my backend skills, exploring Agentic AI, and building full-stack AI-powered applications that combine everything I'm learning into something genuinely useful.
 
 Feel free to explore my projects, follow my progress, or reach out — I'm always open to collaboration and learning from fellow builders.
-
 ---
 
 ## 🔭 What I'm Working On
@@ -43,6 +43,7 @@ Feel free to explore my projects, follow my progress, or reach out — I'm alway
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![AI Certification](https://img.shields.io/badge/AI-Certified-00C7B7?style=for-the-badge&logo=ai&logoColor=white)
 
 ### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
