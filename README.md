@@ -73,23 +73,6 @@ Feel free to explore my projects, follow my progress, or reach out — I'm alway
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=muhammadikram23&show_icons=true&theme=radical"
-    alt="Muhammad Ikram's GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadikram23&layout=compact&theme=radical"
-    alt="Most Used Languages"
-  />
-</p>
----
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-ikram-085823350)
