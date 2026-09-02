@@ -77,18 +77,17 @@ Feel free to explore my projects, follow my progress, or reach out — I'm alway
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-git-main-anuraghazra.vercel.app/api?username=muhammadikram23&show_icons=true&theme=radical&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=muhammadikram23&show_icons=true&theme=radical"
     alt="Muhammad Ikram's GitHub Stats"
-    width="48%"
-  />
-  
-  <img 
-    src="https://github-readme-stats-git-main-anuraghazra.vercel.app/api/top-langs/?username=muhammadikram23&layout=compact&theme=radical&hide_border=true"
-    alt="Most Used Languages"
-    width="48%"
   />
 </p>
 
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadikram23&layout=compact&theme=radical"
+    alt="Most Used Languages"
+  />
+</p>
 ---
 
 ## 📫 Connect with Me
